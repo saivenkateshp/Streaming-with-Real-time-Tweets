@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Spark / runtime output
+checkpoint/
+plots/
+spark-warehouse/
+metastore_db/
+derby.log

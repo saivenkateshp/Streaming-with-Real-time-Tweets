@@ -1,0 +1,7 @@
+tweepy>=4.10
+kafka-python>=2.0
+pyspark==2.4.7
+textblob>=0.17
+numpy
+pandas
+matplotlib
